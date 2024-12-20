@@ -11,7 +11,7 @@ These are the commands to set up docker. Extra steps will be required to get it 
 9) *Take the given IP address from the previous command, and insert it into https://IP:port(if was changed)/admin. Log in with the password from the command*
 10) *Change your DNS so that way it routes through pihole*
 
-While docker didn't want to cooperate, so there are no working pictures, here's a few partial progress photos.
+While docker didn't want to cooperate, so there are no working pictures, here's a few partial progress photos. Instructions based on _https://pimylifeup.com/pi-hole-docker/_
 
 #Docker Compose YML
 services:
